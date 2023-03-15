@@ -1,6 +1,6 @@
 ---
 
-## Kara Anderson - Front End Software Developer
+# Kara Anderson - Front End Software Developer
 
 ---
 
@@ -26,3 +26,5 @@
 :link: [My LinkedIn](https://www.linkedin.com/in/kara-anderson8/)
 
 :link: My email: kanderson8585@gmail.com
+
+---
