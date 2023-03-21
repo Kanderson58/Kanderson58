@@ -15,7 +15,7 @@
 
 ### ___Check out my work:___
 
-:star2: [Puppy Playdate](https://github.com/Kanderson58/boolean-site)
+:star2: [Puppy Playdate]([https://github.com/Kanderson58/boolean-site](https://github.com/Kanderson58/puppy-playdate)) - A personal project that I created to connect dogs in my local area for playdates.  This is a React application that will be end-to-end tested with Cypress.
 
 :star2:  [What's Cookin'](https://github.com/Kanderson58/whats-cookin) - A group project completed during Turing Module 2.  A vanilla Javascript application that allows users to sort through a library of recipes to find the one they want, the ingredients they need, and the price for the recipe (in any currency!).  This is a thoroughly unit tested application through the use of Mocha and Chai.
 
