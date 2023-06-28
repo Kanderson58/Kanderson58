@@ -13,10 +13,10 @@
 ---
 
 ### ___About Me:___ 
-:sparkles: I am a Turing student in the process of learning front end software development.  I am passionate about beautiful, useable, responsive, accessible web design that's intuitive for every user.  I enjoy the challenge of a new problem to solve, and have an attention to detail that makes me well suited for my role as a developer.
+:sparkles: I am frontend software developer expanding my skillset and experience as an intern at GoLinks and The Gathering Place.  I am passionate about beautiful, useable, responsive, accessible web design that's intuitive for every user.  I enjoy the challenge of a new problem to solve, and have an attention to detail that makes me well suited for my role as a developer.
 
-:sparkles: I use React, Typescript, Javascript, HTML, and CSS.
-:sparkles: I am currently learning SASS and Express.
+:sparkles: I use React, Typescript, Javascript, HTML, CSS, jQuery, GraphQL, Recoil, and Firebase.
+:sparkles: I am currently learning Bootstrap, AWS, and Express.
 
 :sparkles:  My featured project is my [Formula Fun](https://formula-fun-two.vercel.app/) app, a React app that answers the question, what if I am a Formula One fan whose two favorite drivers are on different teams?  With this app, it's easy to choose between and compare different matchups to your heart's content.  Check out the driver's all-time stats and make the perfect lineup for your very own customnizable team!  This site uses the [API-Formula-1](https://api-sports.io/documentation/formula-1/v1) API and features a clean, responsive, intuitive UI.  Read more about it on the [Formula Fun repo](https://github.com/Kanderson58/formula-fun).
 
