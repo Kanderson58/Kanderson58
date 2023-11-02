@@ -13,7 +13,7 @@
 ---
 
 ### ___About Me:___ 
-:sparkles: I am frontend software developer expanding my skillset and experience as an intern at GoLinks and The Gathering Place.  I am passionate about beautiful, useable, responsive, accessible web design that's intuitive for every user.  I enjoy the challenge of a new problem to solve, and have an attention to detail that makes me well suited for my role as a developer.
+:sparkles: I am frontend software developer working in ed tech to create learning tools that help kids learn how to read.  I am passionate about beautiful, useable, responsive, accessible web design that's intuitive for every user.  I enjoy the challenge of a new problem to solve, and have an attention to detail that makes me well suited for my role as a developer.
 
 :sparkles: I use React, Typescript, Javascript, HTML, CSS, jQuery, GraphQL, Recoil, and Firebase.
 :sparkles: I am currently learning Bootstrap, AWS, and Express.
